@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="trans">#0000</color>
+    <color name="orange">#ff7700</color>
+    <color name="green">#7acc52</color>
+    <color name="blue">#00a1f2</color>
+    <color name="red">#ff6666</color>
+    <color name="white">#fff</color>
+    <color name="white_10">#1AFFFFFF</color>
+    <color name="black">#000</color>
+    <color name="trans_white">#8fff</color>
+    <color name="trans_white_task">#3fff</color>
+    <color name="trans_black">#2000</color>
+    <color name="grey">#80000000</color>
+    <color name="light_grey">#eee</color>
+
+    <color name="light_grey_bg">#7dd2d2d2</color>
+    <color name="festival_gongzuo">#09c</color>
+    <color name="white_a5">#afff</color>
+    <color name="black_trans">#7F000000</color>
+
+    <color name="gainsboro">#7ff0f0f0</color>
+    <color name="gray">#808080</color>
+    <color name="red_light">#FF0000</color>
+    <color name="red_light2">#ff6666</color>
+
+    <color name="almanac_text1">#956643</color>
+    <color name="almanac_text2">#584943</color>
+    <color name="almanac_line_a70">#b0c6a288</color>
+    <color name="almanac_line_a50">#88c6a288</color>
+    <color name="almanac_big_text">#ff6666</color>
+    <color name="almanac_bg_a12">#17c6a288</color>
+
+    <color name="choose_text2">#333333</color>
+
+    <color name="light_grey_line">#dedede</color>
+    <color name="light_blue">#3300a1f2</color>
+    <color name="blue_">#00a1f2</color>
+   
+    <color name="myday_task_text">#ccfbff</color>
+    <color name="myday_note_text">#d6ffda</color>
+    <color name="myday_festival_text">#fff6cc</color>
+    <color name="myday_todo_text">#bfbfff</color>
+    <color name="myday_alarm_text">#ff6666</color>
+
+
+    <color name="text_l_yellow">#ffea00</color>
+
+    <color name="meili_pink">#ff668c</color>
+    <color name="guide_black_80">#8000</color>
+
+    <color name="qian">#00334d</color>
+    <color name="qian_time">#667980</color>
+    <color name="qian_content">#667980</color>
+    <color name="qian_line">#a1c2ce</color>
+    <color name="white_60">#90ffffff</color>
+    <color name="white_65">#A6ffffff</color>
+    <color name="white_50">#7fffffff</color>
+    <color name="white_alpha">#80ffffff</color>
+    <color name="black_30">#44000000</color>
+    <color name="color_F3B435">#f3b435</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_ff7e4f">#ff7e4f</color>
+    <color name="color_f5f5f5">#f5f5f5</color>
+    <color name="color_edt_hint">#cccccc</color>
+    <color name="color_edt_ok">#666666</color>
+    <color name="black_10">#11000000</color>
+    <color name="black_13">#21000000</color>
+    <color name="black_19">#30000000</color>
+    <color name="black_50">#88000000</color>
+    <color name="black_60">#A2000000</color>
+    <color name="black_70">#B0000000</color>
+
+    <color name="card_title">#333333</color>
+    <color name="card_desc1">#60000000</color>
+    <color name="color_f24949">#ff6666</color>
+    <color name="color_00aaff">#00aaff</color>
+    <color name="color_00a1f2">#00a1f2</color>
+    <color name="color_2468a2">#2468a2</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="color_8ac7e5">#8ac7e5</color>
+    <color name="color_3dcc3d">#3dcc3d</color>
+    <color name="white_90">#eeffffff</color>
+    <color name="color_0099e5">#0099e5</color>
+
+    <!-- more -->
+    <color name="color_blue_more">#00a1f3</color>
+    <color name="color_orange_new">#f28d00</color>
+    <color name="color_pink_hot">#f26161</color>
+    <color name="color_ff6666">#ff6666</color>
+    <color name="color_1ad2d2d2">#1ad2d2d2</color>
+    <color name="gray1">#464646</color>
+    <color name="gray2">#666666</color>
+    <color name="gray3">#999999</color>
+    <color name="gray4">#bababa</color>
+    <color name="gray5">#333333</color>
+    <color name="float_bg">#efefef</color>
+    <color name="bg_handle_pressed">#efefef</color>
+
+    <!-- guide -->
+    <color name="guide_blue">#1ebacc</color>
+    <color name="guide_color1">#1eb9cb</color>
+    <color name="guide_color2">#f2555e</color>
+    <color name="guide_color3">#588dd9</color>
+    <color name="guide_color4">#1fccb0</color>
+    <color name="color_f3f3f3">#f3f3f3</color>
+    <color name="color_526466">#526466</color>
+
+    <!--by ls DailyPopupWindow-->
+    <color name="more_todo_pop">#99ffbb00</color>
+    <color name="more_event_pop">#9900ccff</color>
+    <color name="more_note_pop">#9966cc00</color>
+    <color name="more_festival_pop">#99ff66ff</color>
+
+    <!-- by ww CanlendarShowTypeView -->
+    <color name="color_4dff4c">#ffea80</color>
+    <color name="white_20">#34ffffff</color>
+    <color name="white_70">#b3ffffff</color>
+
+    <color name="transparent">#00000000</color>
+
+    <color name="media_progress">#fffc677a</color>
+    <color name="dim_foreground_dark">#bebebe</color>
+    <color name="black_80">#cc000000</color>
+
+    <color name="yi">#3fb93a</color>
+    <color name="ji">#ff4156</color>
+    <!-- by xujun Mc -->
+    <color name="color_896ae2">#8a61ff</color>
+    <color name="color_896ae2_40">#4c896ae2</color>
+    <color name="color_00a0e5">#007eff</color>
+    <color name="color_00a0e5_40">#4c00a0e5</color>
+    <color name="color_e7e7e7">#e7e7e7</color>
+    <!--插件下载皮肤的界面的颜色值-->
+    <color name="skin_prgressbar_background">#dadada</color>
+    <color name="color_0fceac">#0fceac</color>
+    <color name="color_2abddd">#2abddd</color>
+    <color name="color_0fceac_click">#660fceac</color>
+    <color name="color_2abddd_click">#662abddd</color>
+    <color name="color_007e8c">#007e8c</color>
+
+   <!--星空轨迹-->
+    <color name="horoscope_plane1">#a4a0fa</color>
+    <color name="horoscope_plane2">#5ec2ec</color>
+
+    <color name="color_fb5555">#fb5555</color>
+    <color name="color_fec429">#fec429</color>
+    <color name="color_ff8903">#ff8903</color>
+    <!-- 推荐 -->
+    <color name="color_fceb54">#fceb54</color>
+    <color name="color_ff2d4c">#ff2d4c</color>
+    <color name="color_959595">#959595</color>
+
+    <color name="color_ff3322">#ff3322</color>
+</resources>

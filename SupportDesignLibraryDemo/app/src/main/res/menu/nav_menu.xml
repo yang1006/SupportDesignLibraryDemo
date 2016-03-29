@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item1"
+            android:icon="@drawable/add_tool_contact"
+            android:title="Item 1"/>
+        <item
+            android:id="@+id/item2"
+            android:icon="@drawable/add_tool_img"
+            android:title="Item 2"/>
+        <item
+            android:id="@+id/item3"
+            android:icon="@drawable/add_tool_place"
+            android:title="Item 3"/>
+        <item
+            android:id="@+id/item4"
+            android:icon="@drawable/add_tool_record"
+            android:title="Item 4"/>
+    </group>
+
+    <item android:title="Sub items">
+        <menu>
+            <item
+                android:icon="@drawable/add_tool_time"
+                android:id="@+id/item5"
+                android:title="Sub item 1"/>
+            <item
+                android:icon="@drawable/weibo"
+                android:id="@+id/item6"
+                android:title="Sub item 2"/>
+        </menu>
+    </item>
+
+</menu>

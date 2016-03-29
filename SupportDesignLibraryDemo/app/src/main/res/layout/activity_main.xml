@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tv_1"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:text="TextInputLayout"
+        android:gravity="center"
+        android:background="@drawable/main_text_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_2"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:text="FloatingActionButton and SnackBar"
+        android:gravity="center"
+        android:background="@drawable/main_text_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_3"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:text="TabLayout"
+        android:gravity="center"
+        android:background="@drawable/main_text_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_4"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:text="NavigationView"
+        android:gravity="center"
+        android:background="@drawable/main_text_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_5"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:text="AppBarLayout"
+        android:gravity="center"
+        android:background="@drawable/main_text_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_6"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:text="CollapsingToolbarLayout"
+        android:gravity="center"
+        android:background="@drawable/main_text_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_7"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:text="TransLate Behavior"
+        android:gravity="center"
+        android:background="@drawable/main_text_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+    <TextView
+        android:id="@+id/tv_8"
+        android:textSize="16sp"
+        android:padding="5dp"
+        android:layout_marginTop="5dp"
+        android:text="Scroll Behavior"
+        android:gravity="center"
+        android:background="@drawable/main_text_bg"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+
+</LinearLayout>
